@@ -1,4 +1,3 @@
-Thanks for the detailed context, Nicole — this is exactly what I needed. Based on your file structure and the `VouchersScreen` component, here’s a clean, comprehensive `README.md` for your frontend that reflects your architecture, features, and setup:
 
 ---
 
