@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # 🎟️ Voucher App Frontend
 
 This is the mobile frontend for the Voucher App, built with **React Native (Expo)** and **TypeScript**. It allows users to purchase gift vouchers, view them with a QR code, and download them as PDFs for sharing or printing.
