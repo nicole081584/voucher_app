@@ -34,7 +34,7 @@ This is the mobile frontend for the Voucher App, built with **React Native (Expo
 
 ## 📁 Folder Structure
 
-```
+```bash
 frontend/
 ├── app/                    # App routing and screens
 │   └── index.tsx
